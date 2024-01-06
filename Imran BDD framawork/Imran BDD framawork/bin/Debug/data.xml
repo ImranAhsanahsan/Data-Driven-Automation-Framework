@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Automation>
+
+<execution>
+	
+		<logint>
+			<username>Admin</username>
+			<password>admin123</password>
+			
+		</logint>
+
+
+		<addt>
+			<username>Admin</username>
+			<password>admin123</password>
+				<f>testing</f>
+				<m>ahsann</m>
+				<l>khanh</l>
+<ns>imrann</ns>
+
+
+
+		</addt>
+
+<delt>
+<username>Admin</username>
+			<password>admin123</password>
+
+<sea>imrann</sea>
+
+
+
+
+
+
+</delt>
+		
+
+
+
+<updatet>
+
+<username>Admin</username>
+			<password>admin123</password>
+
+<sea>america</sea>
+
+
+
+
+
+
+</updatet>
+
+
+
+
+
+
+
+
+
+			
+
+			
+
+
+				
+		
+
+
+
+
+
+</execution>
+		
+		
+		
+		
+	
+</Automation>
